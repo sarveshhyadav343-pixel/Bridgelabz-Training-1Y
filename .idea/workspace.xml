@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a66ce83-1a89-4c49-aec3-0d6e735920e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/AgeOfHarry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/AreaOfTriangleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/ArthmethicCalcu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/ArthmethicCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/AvgPercentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/DoubleOpt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/EarthVolume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/FeesPerDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/FessDiscount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/HeightCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/IntOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/KilometerToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/KmToMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/MaximumHandshakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/PenDistributor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/ProfitPercentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/QuotientAndReminder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/SideOfSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/SideOfSquareUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/UnitPriceCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/UnitPriceCalculatorUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/YardAndMiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic programmes/02-Java-Primitive-Data-Type/02-Java-Primitive-Data-Type/YardAndMilesUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaproject/src/array.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="3995GTVPtgSGe7BW2MZw2A9T7Kn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Java Scratch.Unnamed.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Java Scratch" singleton="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="25" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="Bridgelabz-Training-1Y" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a66ce83-1a89-4c49-aec3-0d6e735920e9" name="Changes" comment="" />
+      <created>1770095945392</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770095945392</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2d9e0545-bea1-4803-b343-73ab4dde35f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../javaproject/src/array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/ArmstrongNumber (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/CheckBy5 (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/CheckNumber (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/CheckSmallest (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/CountDigits (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/Countdown (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/HarshadNumber (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/Loop8 (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/NaturalNumberSum (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/OddEvenNumbers (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/SpringSeason (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/SumOfNumber (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/SumUntilBreak (1).class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../basic programmes/03 practise problems/VotingEligibility (1).class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../.." value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="39I33tk2Bb6FKSXxQ0dtLVU23Vx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "javaarray",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Bridgelabz-Training-1Y/workshop/projects/src/Main.java"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2d9e0545-bea1-4803-b343-73ab4dde35f1" name="Changes" comment="" />
+      <created>1770369562255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770369562255</updated>
+    </task>
+    <servers />
+  </component>
+</project>
